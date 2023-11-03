@@ -21,5 +21,6 @@ Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 <img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/750ad3b6-ad7f-4ed3-81f3-57291a2a71ba" width=20% height=20%>
 <img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/549e6a78-f61d-47e0-b540-bc09ebbde6f8" width=20% height=20%>
-<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/544ed81c-346c-45e8-a5b3-3fa3146d7c0a" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/ca2464c6-c8e1-4069-a48a-f85fc40515d8" width=20% height=20%>
+
 
