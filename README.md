@@ -19,7 +19,7 @@ Add two buttons with vector icons.
 
 Call appropriate method of mainactivity after pressing buttons of toolbar.
 
-<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/23012d7f-7a19-4272-8a8b-4d6b44625c5f" width=20% height=20%>
-<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/0a161f5c-8b2a-4dfa-b214-e00477018f32" width=20% height=20%>
-<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/8d6a7605-c5e3-4589-81a0-e162daca8121" width=20% height=20%>
-<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/0035d682-d42f-41b5-87c2-86575c753782" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/750ad3b6-ad7f-4ed3-81f3-57291a2a71ba" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/549e6a78-f61d-47e0-b540-bc09ebbde6f8" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical11_21012011036/assets/98690735/544ed81c-346c-45e8-a5b3-3fa3146d7c0a" width=20% height=20%>
+
